@@ -197,6 +197,18 @@ dl dd {
 .justificado { text-align: justify; }
 .direita { text-align: right; }
 
+/* Fontes específicas */
+.verdana { font-family: Verdana, sans-serif; font-size: 1.1rem; }
+.monospace { font-family: monospace, 'Courier New', Courier; font-size: 1.1rem; }
+.calibri { font-family: Calibri, 'Gill Sans', 'Trebuchet MS', sans-serif; font-size: 1.1rem; }
+.dancing { font-family: 'Dancing Script', cursive; font-size: 1.3rem; }
+
+/* Estilos de texto */
+.negrito { font-weight: bold; font-size: 1.1rem; }
+.italico { font-style: italic; font-size: 1.1rem; }
+.sublinhado { text-decoration: underline; font-size: 1.1rem; }
+.tachado { text-decoration: line-through; font-size: 1.1rem; }
+
 /* Footer */
 footer#rodape {
     background-color: var(--cor-secundaria);
